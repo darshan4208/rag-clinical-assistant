@@ -1,0 +1,10 @@
+Title: Cardiovascular Outcomes with SGLT2 Inhibitors in Type 2 Diabetes  
+Authors: Zelniker TA, Braunwald E, et al.  
+PMID: 33213655  
+
+Abstract:
+Sodium-glucose cotransporter 2 (SGLT2) inhibitors have emerged as a class of glucose-lowering agents that reduce cardiovascular events in patients with type 2 diabetes.  
+
+Meta-analysis of major cardiovascular outcome trials (EMPA-REG, CANVAS, DECLARE-TIMI 58) showed a significant reduction in heart failure hospitalization and progression of kidney disease.  
+
+The cardioprotective effects appear independent of glucose lowering, suggesting potential benefit in patients without diabetes as well.
