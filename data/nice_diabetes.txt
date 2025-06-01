@@ -1,0 +1,9 @@
+Title: NICE NG28 – Type 2 Diabetes in Adults: Management  
+Source: https://www.nice.org.uk/guidance/ng28  
+
+Recommendation:
+In adults with type 2 diabetes, if blood glucose control remains inadequate on metformin monotherapy, consider dual therapy with metformin and another drug (e.g. DPP‑4 inhibitor, SGLT2 inhibitor, sulfonylurea, or pioglitazone), based on clinical circumstances and patient preferences.  
+
+For people with established cardiovascular disease, offer an SGLT2 inhibitor with proven cardiovascular benefit.  
+
+Review HbA1c levels every 3–6 months and adjust treatment if targets are not met.
