@@ -1,0 +1,11 @@
+Title: WHO Diabetes Fact Sheet (2023)  
+Source: https://www.who.int/news-room/fact-sheets/detail/diabetes  
+
+Key Facts:
+- Approximately 422 million people globally have diabetes.  
+- Type 2 diabetes is the most common, largely the result of excess body weight and physical inactivity.  
+- It is a major cause of blindness, kidney failure, heart attacks, and lower limb amputation.  
+
+Prevention & Control:
+- Healthy diet, regular physical activity, and avoiding tobacco can prevent or delay type 2 diabetes.
+- Diagnosis and treatment should include blood glucose control and addressing cardiovascular risk.
